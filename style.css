@@ -1,0 +1,26 @@
+body{
+    background-color: #f7f7f7;
+
+    p{
+        background-color: #ffffff;
+        padding: 1vw;
+        border-radius: 12px;
+        box-shadow:2px 2px 5px #acacac;
+        margin: 1vw;
+    }
+
+    div{
+        background-color: #ffffff;
+        padding: 2vw;
+        border-radius: 12px;
+        margin: 1vw;
+        box-shadow:2px 2px 5px #acacac;
+    }
+    
+    img{
+        max-width: 100%;
+        height: auto;
+        display: block;
+        border-radius: 10px;
+    }
+}
