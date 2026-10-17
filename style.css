@@ -1,6 +1,10 @@
 body{
     background-color: #f7f7f7;
 
+    width: 70vw;       /* 必須設定一個具體的寬度 */
+    max-width: 100%;
+    margin: 0 auto;
+
     p{
         background-color: #ffffff;
         padding: 1vw;
